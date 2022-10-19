@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on delightfulness
 - 📫 How to reach me kasamsun@gmail.com
 
-[Kasamsun CV](http://http://blog.kasamsun.com/resume/)
+[Kasamsun CV](http://blog.kasamsun.com/resume/)
 
 <!---
 kasamsun/kasamsun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
