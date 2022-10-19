@@ -2,7 +2,9 @@
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning vue, node
 - 💞️ I’m looking to collaborate on delightfulness
-- 📫 How to reach me ...just email me 
+- 📫 How to reach me kasamsun@gmail.com
+
+[Kasamsun Resume](http://http://blog.kasamsun.com/resume/)
 
 <!---
 kasamsun/kasamsun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
