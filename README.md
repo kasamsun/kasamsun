@@ -4,10 +4,6 @@
 - 💞️ I’m looking to collaborate on delightfulness
 - 📫 How to reach me kasamsun@gmail.com
 
-[Website](http://blog.kasamsun.com/)
-
-[Kasamsun CV](http://blog.kasamsun.com/resume/)
-
 [Medium](https://kasamsun.medium.com/)
 
 
