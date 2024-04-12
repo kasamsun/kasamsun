@@ -6,6 +6,8 @@
 
 [Medium](https://kasamsun.medium.com/)
 
+[CV](https://kasamsun.github.io/digital-cv)
+
 
 <!---
 kasamsun/kasamsun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
