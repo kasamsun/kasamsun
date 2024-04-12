@@ -6,7 +6,7 @@
 
 [Medium](https://kasamsun.medium.com/)
 
-[CV](https://kasamsun.github.io/digital-cv)
+[Kasamsun CV](https://kasamsun.github.io/digital-cv)
 
 
 <!---
