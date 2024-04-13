@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @kasamsun
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning vue, node
+- 🌱 I’m currently learning vuejs, nodejs
 - 💞️ I’m looking to collaborate on delightfulness
-- 📫 How to reach me kasamsun@gmail.com
+- 🐶 Fond of dog and cat 🐱
+- 📫 How to reach me kasamsun@gmail.com, kasamsun_s@yahoo.com
 
 [Medium](https://kasamsun.medium.com/)
 
