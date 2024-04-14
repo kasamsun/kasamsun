@@ -5,9 +5,9 @@
 - 🐶 Fond of dog and cat 🐱
 - 📫 How to reach me kasamsun@gmail.com, kasamsun_s@yahoo.com
 
-[Medium](https://kasamsun.medium.com/)
+[Medium](https://kasamsun.medium.com/){:target="_blank"}
 
-[Kasamsun CV](https://kasamsun.github.io/digital-cv)
+[Kasamsun CV](https://kasamsun.github.io/digital-cv){:target="_blank"}
 
 
 <!---
