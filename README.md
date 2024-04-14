@@ -5,10 +5,9 @@
 - 🐶 Fond of dog and cat 🐱
 - 📫 How to reach me kasamsun@gmail.com, kasamsun_s@yahoo.com
 
-[Medium](https://kasamsun.medium.com/?target=_blank)
+<a href="https://kasamsun.medium.com" target="_blank">Medium</a>
 
-[Kasamsun CV](https://kasamsun.github.io/digital-cv?target=_blank)
-
+<a href="https://kasamsun.github.io/digital-cv" target="_blank">Kasamsun CV</a>
 
 <!---
 kasamsun/kasamsun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
